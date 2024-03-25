@@ -1,8 +1,0 @@
-[
-{
-  "directory": "D:/worktable/code/VSCode/leetcode/build",
-  "command": "C:\\Env\\mingw64\\bin\\g++.exe   -g -o CMakeFiles\\main_1.dir\\src\\main.cpp.obj -c D:\\worktable\\code\\VSCode\\leetcode\\src\\main.cpp",
-  "file": "D:/worktable/code/VSCode/leetcode/src/main.cpp",
-  "output": "CMakeFiles/main_1.dir/src/main.cpp.obj"
-}
-]
